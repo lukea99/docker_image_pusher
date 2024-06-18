@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 hanxi/xiaomusic:latest
+--platform=linux/arm64 0nlylty/dockercopilot:UGREEN
